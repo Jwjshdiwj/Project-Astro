@@ -2,6 +2,6 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 
-local reason = "Under Massive Rework Please Stay Tuned For Updates :))))"
+local reason = "Under Rework Please Wait For Update - Last Updated Sunday , August 24, 2025"
 
 player:Kick(reason)
